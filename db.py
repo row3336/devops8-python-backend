@@ -68,7 +68,7 @@ def _add_default_data():
     create_product("Salt", 19)
     create_product("New Bread", 40)
     create_product("Butter", 62)
-    create_product("Milk", 32)
+    create_product("Fresh Milk", 50)
 
 
 def _print_all_data():
