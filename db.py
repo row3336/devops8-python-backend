@@ -65,7 +65,7 @@ def delete_product(product_id):
 
 def _add_default_data():
     create_product("Sugar", 32)
-    create_product("Sult", 19)
+    create_product("Salt", 19)
     create_product("Bread", 20)
     create_product("Butter", 62)
     create_product("Milk", 32)
